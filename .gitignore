@@ -1,10 +1,10 @@
 # NetBeans specific #
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-store/
+/nbproject/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/store/
 nbactions.xml
 build.xml
 manifest.mf
